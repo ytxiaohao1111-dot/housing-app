@@ -6,7 +6,7 @@ sns.set_theme()
 
 
 # 1. bigTitle and read
-st.title('California Housing Data (1990)')
+st.title('California Housing Data (1990) by Xu Zilin')
 
 # read data
 df = pd.read_csv('housing.csv')
